@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, World! 😄
+# Hello, World!
 
-The only thing we tend to do when we are learning a new programming language is to print "Hello, World!" 😄.
+The only thing we tend to do when we are learning a new programming language is to print "Hello, World!" :joy:.
 
-- 🔭 I’m currently working on some Special Projects (Soon I will release this on the public 😄)
+- 🔭 I’m currently working on some Special Projects (Soon I will release this on the public :relaxed:)
 - 🌱 I’m currently learning Data Science, Machine Learning, etc. :wink:
 - 📫 How to reach me: You can visit my website [http://lorddashme.github.io/](http://lorddashme.github.io/)
 
