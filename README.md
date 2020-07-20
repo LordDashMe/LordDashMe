@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 
 # Hello, World! 😄
 
+When we learning a new programming language we always use the words "Hello, World!", and that's not different when you discover my profile 😄
+
 - 🔭 I’m currently working on some Special Projects (Soon I will release this on the public 😄)
 
 - 🌱 I’m currently learning Data Science, Machine Learning, etc. :wink:
 
 - 📫 How to reach me: You can visit my website [http://lorddashme.github.io/](http://lorddashme.github.io/)
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
     <img src="https://github-contribution-stats.vercel.app/api/?username=lorddashme" />
   </a>
-</div>
+</p>
