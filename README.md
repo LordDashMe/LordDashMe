@@ -19,7 +19,7 @@ The thing we tend to do when we are learning a new programming language is to pr
 
 - 🔭 I’m currently working on some Special Projects (soon I will release this on the public :relaxed:)
 - 🌱 I’m currently learning Data Science, Machine Learning, etc. :wink:
-- 📫 How to reach me: You can visit my website [http://lorddashme.github.io/](http://lorddashme.github.io/) (though I know that this link is also included in my github profile, below my profile picture :joy: I still plug it here)
+- 📫 How to reach me: You can visit my website [http://lorddashme.github.io/](http://lorddashme.github.io/) (though I know that this link is also included in my github profile, below my profile picture :joy: but I still plug it here)
 
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
