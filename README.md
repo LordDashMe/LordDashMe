@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, World!
 
-The thing we tend to do when we are learning a new programming language is to print "Hello, World!" :joy:.
+The usual we do when we are learning a new programming language is to print "Hello, World!" :joy:.
 
 - 🔭 I’m currently working on some Special Projects (soon I will release this on the public :relaxed:)
 - 🌱 I’m currently learning Data Science, Machine Learning, etc. :wink:
