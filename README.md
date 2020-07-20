@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, World! 😄
 
-When we are learning a new programming language we always use the words "Hello, World!".
-
-And that's not different when you discover my profile 😄.
+The only thing we tend to do when we are learning a new programming language is to print "Hello, World!" 😄.
 
 - 🔭 I’m currently working on some Special Projects (Soon I will release this on the public 😄)
 - 🌱 I’m currently learning Data Science, Machine Learning, etc. :wink:
