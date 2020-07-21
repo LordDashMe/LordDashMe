@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, World!
 
-The usual we do when we are learning a new programming language is to print "Hello, World!" and that's the same when you opened or discovered my profile :joy:.
+The usual we do when we are learning a new programming language is to print ```Hello, World!``` and that's the same when you opened or discovered my profile :joy:.
 
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
@@ -25,8 +25,8 @@ The usual we do when we are learning a new programming language is to print "Hel
 
 ## You can just call me Dash :smile: haha!
 
-- 🔭 I’m currently working on some Special Projects (soon I will release this on the public :relaxed:)
-- 🌱 I’m currently learning Data Science, Machine Learning, etc. :wink:
+- 🔭 I’m currently working on some Special Projects :relaxed: (you can explore this [Projects](http://lorddashme.github.io/projects/) list :smile: haha!)
+- 🌱 I’m currently learning **Data Science**, **Machine Learning**, etc. :wink:
 - 📫 How to reach me: Send your queries (if you have one :smile:) here [Contact Form](http://lorddashme.github.io/contact/).
 
 Happy Crafting! :blush:
