@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 
 # Hello, World!
 
-The usual we do when we are learning a new programming language is to print "Hello, World!" and that's the same when you open my profile :joy:.
+The usual we do when we are learning a new programming language is to print "Hello, World!" and that's the same when you opened or discovered my profile :joy:.
 
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
     <img src="https://github-contribution-stats.vercel.app/api/?username=lorddashme" />
   </a>
 </p>
-
-## You can just call me Dash :blush:
 
 - 🔭 I’m currently working on some Special Projects (soon I will release this on the public :relaxed:)
 - 🌱 I’m currently learning Data Science, Machine Learning, etc. :wink:
