@@ -23,6 +23,8 @@ The usual we do when we are learning a new programming language is to print "Hel
   </a>
 </p>
 
+## You can just call me Dash :smile: haha!
+
 - 🔭 I’m currently working on some Special Projects (soon I will release this on the public :relaxed:)
 - 🌱 I’m currently learning Data Science, Machine Learning, etc. :wink:
 - 📫 How to reach me: Send your queries (if you have one :smile:) here [Contact Form](http://lorddashme.github.io/contact/).
