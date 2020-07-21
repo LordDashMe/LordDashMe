@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 
 The usual we do when we are learning a new programming language is to print "Hello, World!" and that's the same when you open my profile :joy:.
 
-- 🔭 I’m currently working on some Special Projects (soon I will release this on the public :relaxed:)
-- 🌱 I’m currently learning Data Science, Machine Learning, etc. :wink:
-- 📫 How to reach me: You can visit my website [http://lorddashme.github.io/](http://lorddashme.github.io/) (though I know that this link is also included in my github profile, below my profile picture :joy: but I still plug it here)
-
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
     <img src="https://github-contribution-stats.vercel.app/api/?username=lorddashme" />
   </a>
 </p>
+
+## You can just call me Dash :blush:
+
+- 🔭 I’m currently working on some Special Projects (soon I will release this on the public :relaxed:)
+- 🌱 I’m currently learning Data Science, Machine Learning, etc. :wink:
+- 📫 How to reach me: Send your queries (if you have one :smile:) here [Contact Form](http://lorddashme.github.io/contact/).
+
+Happy Crafting! :blush:
