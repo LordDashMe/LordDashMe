@@ -23,7 +23,7 @@ The usual we do when we are learning a new programming language is to print ```H
   </a>
 </p>
 
-## You can just call me Dash :smile: haha!
+## Hi, Dash here! :wave:
 
 - 🔭 I’m currently working on some Special Projects (you can explore this [Projects](http://lorddashme.github.io/projects/) list :smile: haha!)
 - 🌱 I’m currently learning **Data Science**, **Machine Learning**, etc. :wink:
