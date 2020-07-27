@@ -29,4 +29,6 @@ The usual we do when we are learning a new programming language is to print ```H
 - 🌱 I’m currently learning **Data Science**, **Machine Learning**, etc. :wink:
 - 📫 How to reach me: Send your queries (if you have one :smile:) here [Contact Form](http://lorddashme.github.io/contact/).
 
-Happy Crafting!
+
+<p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
+<p align="center">Happy Crafting! :sparkles:</p>
