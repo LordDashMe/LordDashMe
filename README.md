@@ -21,7 +21,7 @@ The usual we do when we are learning a new programming language is to print ```H
 
 - 🔭 I’m currently working on some Special Projects (you can explore this [Projects](http://lorddashme.github.io/projects/) list :smile: haha!)
 - 🌱 I’m currently learning **Data Science**, **Machine Learning**, etc. :wink:
-- 📫 How to reach me: Send your queries (if you have one :smile:) here [Contact Form](http://lorddashme.github.io/contact/).
+- 📫 How to reach me: Send your queries here [Contact Form](http://lorddashme.github.io/contact/).
 
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
