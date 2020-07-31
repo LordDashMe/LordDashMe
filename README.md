@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 The usual we do when we are learning a new programming language is to print ```Hello, World!``` and that's the same when you opened or discovered my profile :joy:.
 
-<p align="center">
-  <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=lorddashme" />
-  </a>
-</p>
-
 ## Hi, Dash here! :wave:
 
 - 🔭 I’m currently working on some Special Projects (you can explore this [Projects](http://lorddashme.github.io/projects/) list :smile: haha!)
@@ -31,4 +25,9 @@ The usual we do when we are learning a new programming language is to print ```H
 
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
-<p align="center">Happy Crafting! :sparkles:</p>
+
+<p align="center">
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=lorddashme" />
+  </a>
+</p>
