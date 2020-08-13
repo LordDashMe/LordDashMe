@@ -19,9 +19,9 @@ The usual we do when we are learning a new programming language is to print ```H
 
 ## Hi, Dash here! :wave:
 
-- 🔭 I’m currently working on some Special Projects, you can check it here [Projects](http://lorddashme.github.io/projects/)
+- 🔭 I’m currently working on some Special Projects, you can check this [project list](http://lorddashme.github.io/projects/).
 - 🌱 I’m currently learning **Data Science**, **Machine Learning**, etc.
-- 📫 How to reach me: Send your queries here [Contact Form](http://lorddashme.github.io/contact/).
+- 📫 How to reach me: Send your queries using this [contact form](http://lorddashme.github.io/contact/).
 
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
