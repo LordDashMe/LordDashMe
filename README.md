@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, World!
 
-The usual we do when we are learning a new programming language is to print ```Hello, World!``` and that's the same when you opened or discovered my profile :joy:.
+The usually we do when we are learning a new programming language is to print ```Hello, World!``` and that's the same when you opened or discovered my profile :joy:.
 
 ## Hi, Dash here! :wave:
 
