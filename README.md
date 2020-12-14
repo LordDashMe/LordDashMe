@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 The usually we do when we are learning a new programming language is to print ```Hello, World!``` and that's the same when you opened or discovered my profile :joy:.
 
+<p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="inbox zero" /></p>
+
 ## Hi, Dash here! :wave:
 
 - 🔭 I’m currently working on some Special Projects, you can check this [project list](http://lorddashme.github.io/projects/).
 - 🌱 I’m currently learning **Data Science**, **Machine Learning**, etc.
 - 📫 How to reach me: Send your queries using this [contact form](http://lorddashme.github.io/contact/).
 
-
-<p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
+<p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
