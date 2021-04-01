@@ -32,3 +32,5 @@ The usually we do when we are learning a new programming language is to print ``
     <img src="https://github-contribution-stats.vercel.app/api/?username=lorddashme" />
   </a>
 </p>
+
+<p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</p>
