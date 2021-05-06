@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 # Hello, World!
 
 The usually we do when we are learning a new programming language is to print ```Hello, World!``` and that's the same when you opened or discovered my profile :joy:.
@@ -34,3 +35,22 @@ The usually we do when we are learning a new programming language is to print ``
 </p>
 
 <p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</p>
+-->
+
+# Hello, World
+
+<p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
+
+<p align="center">
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=lorddashme" />
+  </a>
+</p>
+
+<p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</p>
+
+## Hi, Dash here! :wave:
+
+- 🔭 I’m currently working on some special projects, you can check it out using this [link](http://lorddashme.github.io/projects/).
+- 🌱 I’m currently learning some of the latest trends related to tech.
+- 📫 To reach me, you may send your queries using this [contact form](http://lorddashme.github.io/contact/).
