@@ -54,4 +54,4 @@ The usually we do when we are learning a new programming language is to print ``
 - 🔭 I’m currently working on some special projects, you can check it out using this [link](http://lorddashme.github.io/projects/).
 - 🌱 I’m currently learning some of the latest trends related to tech (blockchain, machine learning, etc.).
 - 📫 To reach me, you may send your queries using this [contact form](http://lorddashme.github.io/contact/).
-- :rainbow: I'm very greatful for any token that you want to give, here is my address: 0x370C28483aF8cD4F7A9A1496f8b1888a73d8A684
+- :rainbow: I'm very grateful for any token that you want to give, here is my address: 0x370C28483aF8cD4F7A9A1496f8b1888a73d8A684
