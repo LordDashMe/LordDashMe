@@ -25,6 +25,7 @@ The usually we do when we are learning a new programming language is to print ``
 - 🔭 I’m currently working on some Special Projects, you can check this [project list](http://lorddashme.github.io/projects/).
 - 🌱 I’m currently learning **Data Science**, **Machine Learning**, etc.
 - 📫 How to reach me: Send your queries using this [contact form](http://lorddashme.github.io/contact/).
+- :rainbow: Want to donating any token? :heart: I'm really grateful for that, here is my address: 0x370C28483aF8cD4F7A9A1496f8b1888a73d8A684
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
@@ -54,4 +55,3 @@ The usually we do when we are learning a new programming language is to print ``
 - 🔭 I’m currently working on some special projects, you can check it out using this [link](http://lorddashme.github.io/projects/).
 - 🌱 I’m currently learning some of the latest trends related to tech (blockchain, machine learning, etc.).
 - 📫 To reach me, you may send your queries using this [contact form](http://lorddashme.github.io/contact/).
-- :rainbow: Want to donating any token? :heart: I'm really grateful for that, here is my address: 0x370C28483aF8cD4F7A9A1496f8b1888a73d8A684
