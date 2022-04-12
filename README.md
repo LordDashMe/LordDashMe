@@ -59,5 +59,4 @@ The usually we do when we are learning a new programming language is to print ``
 ## Latest Activities
 
 - Currently maintaining [WordleJS](https://lorddashme.github.io/wordlejs/)
-
 - Maintaining and ongoing development of new feature for [GMA News Online - Eleksyon2022](https://gmanetwork.com/news/eleksyon2022)
