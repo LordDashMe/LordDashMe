@@ -55,3 +55,7 @@ The usually we do when we are learning a new programming language is to print ``
 - 🔭 I’m currently working on some special projects, you can check it out using this [link](http://lorddashme.github.io/projects/).
 - 🌱 I’m currently learning some of the latest trends related to tech (blockchain, machine learning, etc.).
 - 📫 To reach me, you may send your queries using this [contact form](http://lorddashme.github.io/contact/).
+
+### News
+
+- Check my new pet project [WordleJS](https://lorddashme.github.io/wordlejs/)
