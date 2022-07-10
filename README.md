@@ -52,10 +52,16 @@ The usually we do when we are learning a new programming language is to print ``
 
 ## Hi, Dash here! :wave:
 
-- 🔭 I’m currently working on some special projects, you can check it out using this [link](http://lorddashme.github.io/projects/).
-- 🌱 I’m currently learning some of the latest trends related to tech (blockchain, machine learning, etc.).
-- 📫 To reach me, you may send your queries using this [contact form](http://lorddashme.github.io/contact/).
+- 🔭 I’m currently working on some projects, you can check it out using this [link](http://lorddashme.github.io/projects/).
+- 🌱 I’m currently learning some of the Web3 latest trends (Blockchain, ML, AI, etc.).
+- 📫 To reach me, you can send your queries using this [contact form](http://lorddashme.github.io/contact/).
 
 ## Latest Activities
 
-- Currently maintaining [GMA News Online](https://www.gmanetwork.com/news/), [GMA News Online - Eleksyon2022](https://gmanetwork.com/news/eleksyon2022/) [WordleJS](https://lorddashme.github.io/wordlejs/), [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
+- I'm currently working and maintaining the following: 
+
+  - [GMA News Online](https://www.gmanetwork.com/news/)
+  
+  - [WordleJS](https://lorddashme.github.io/wordlejs/)
+  
+  - [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
