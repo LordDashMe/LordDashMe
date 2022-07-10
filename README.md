@@ -58,10 +58,4 @@ The usually we do when we are learning a new programming language is to print ``
 
 ## Latest Activities
 
-- I'm currently working and maintaining the following: 
-
-  - [GMA News Online](https://www.gmanetwork.com/news/)
-  
-  - [WordleJS](https://lorddashme.github.io/wordlejs/)
-  
-  - [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
+- I'm currently working and maintaining the following: [GMA News Online](https://www.gmanetwork.com/news/), [WordleJS](https://lorddashme.github.io/wordlejs/), [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
