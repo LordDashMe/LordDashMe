@@ -52,9 +52,9 @@ The usually we do when we are learning a new programming language is to print ``
 
 ## Hi, Dash here! :wave:
 
-- 🌱 I’m currently learning some of the Web3 latest trends (Blockchain, ML, AI, etc.).
-- 📫 To reach me, you can send your queries via email or follow me on [twitter](https://twitter.com/lorddashme).
+- 🌱 I’m currently learning about some of the Web3's latest trends (blockchain, ML, AI, etc.).
+- 📫 To reach me, you can send your queries via [linkedin](https://www.linkedin.com/in/joshua-clifford-reyes-5572b912a/) or follow me on [twitter](https://twitter.com/lorddashme).
 
 ## Other Activities
 
-- I'm also working and maintaining the following: [WordleJS](https://lorddashme.github.io/wordlejs/), [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
+- I'm also working and maintaining the following projects: [WordleJS](https://lorddashme.github.io/wordlejs/), [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
