@@ -50,13 +50,10 @@ The usually we do when we are learning a new programming language is to print ``
   </a>
 </p>
 
-<!--
 ## Hi, Dash here! :wave:
 
-- 🔭 I’m currently working on some projects, you can check it out using this [link](http://lorddashme.github.io/projects/).
 - 🌱 I’m currently learning some of the Web3 latest trends (Blockchain, ML, AI, etc.).
-- 📫 To reach me, you can send your queries using this [contact form](http://lorddashme.github.io/contact/).
--->
+- 📫 To reach me, you can send your queries via email or follow me on [twitter](https://twitter.com/lorddashme).
 
 ## Other Activities
 
