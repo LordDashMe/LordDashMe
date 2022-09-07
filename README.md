@@ -38,7 +38,7 @@ The usually we do when we are learning a new programming language is to print ``
 <p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</p>
 -->
 
-# Hello, World
+# Hello, World!
 
 <p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</p>
 
@@ -50,12 +50,14 @@ The usually we do when we are learning a new programming language is to print ``
   </a>
 </p>
 
+<!--
 ## Hi, Dash here! :wave:
 
 - 🔭 I’m currently working on some projects, you can check it out using this [link](http://lorddashme.github.io/projects/).
 - 🌱 I’m currently learning some of the Web3 latest trends (Blockchain, ML, AI, etc.).
 - 📫 To reach me, you can send your queries using this [contact form](http://lorddashme.github.io/contact/).
+-->
 
-## Latest Activities
+## Other Activities
 
-- I'm currently working and maintaining the following: [GMA News Online](https://www.gmanetwork.com/news/), [WordleJS](https://lorddashme.github.io/wordlejs/), [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
+- I'm also working and maintaining the following: [WordleJS](https://lorddashme.github.io/wordlejs/), [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
