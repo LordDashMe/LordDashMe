@@ -42,7 +42,8 @@ The usually we do when we are learning a new programming language is to print ``
 
 <p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</p>
 
-<p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
+<!-- <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p> -->
+<p align="center"><img width="100" height="100" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mona loading default" /></p>
 
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
