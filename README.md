@@ -38,10 +38,10 @@ The usually we do when we are learning a new programming language is to print ``
 <p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</p>
 -->
 
-<p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</p>
+<p align="center">"Success is not final; failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill</p>
 
 <!-- <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p> -->
-<p align="center"><img width="100" height="100" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mona loading default" /></p>
+<p align="center"><img width="90" height="90" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mona loading default" /></p>
 
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
@@ -49,7 +49,7 @@ The usually we do when we are learning a new programming language is to print ``
   </a>
 </p>
 
-## Hi, Dash here :wave: how are you?
+## Hi, Dash here :wave:
 
 - 🌱 I’m currently learning about some of the Web3's latest trends (blockchain, ML, AI, etc.).
 - 📫 To reach me, you can send your queries via [linkedin](https://www.linkedin.com/in/joshua-clifford-reyes-5572b912a/) or follow me on [twitter](https://twitter.com/lorddashme).
