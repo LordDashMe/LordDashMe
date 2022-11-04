@@ -24,6 +24,7 @@ The usually we do when we are learning a new programming language is to print ``
 
 - 🔭 I’m currently working on some Special Projects, you can check this [project list](http://lorddashme.github.io/projects/).
 - 🌱 I’m currently learning **Data Science**, **Machine Learning**, etc.
+- 🌱 I’m currently learning about some of the Web3's latest trends (blockchain, ML, AI, etc.).
 - 📫 How to reach me: Send your queries using this [contact form](http://lorddashme.github.io/contact/).
 - :rainbow: Want to donating any token? :heart: I'm really grateful for that, here is my address: 0x370C28483aF8cD4F7A9A1496f8b1888a73d8A684
 
@@ -36,6 +37,10 @@ The usually we do when we are learning a new programming language is to print ``
 </p>
 
 <p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</p>
+
+## Other Activities
+
+- I'm also working on and maintaining the following projects: [WordleJS](https://lorddashme.github.io/wordlejs/), [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
 -->
 
 <p align="center">"Success is not final; failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill</p>
@@ -51,9 +56,6 @@ The usually we do when we are learning a new programming language is to print ``
 
 ## Hi, Dash here :wave:
 
-- 🌱 I’m currently learning about some of the Web3's latest trends (blockchain, ML, AI, etc.).
-- 📫 To reach me, you can send your queries via [linkedin](https://www.linkedin.com/in/joshua-clifford-reyes-5572b912a/) or follow me on [twitter](https://twitter.com/lorddashme).
+- 🔭 I’m currently working on some cool stuff related to RF.
+- 📫 To reach me, you can send your query via [linkedin](https://www.linkedin.com/in/joshua-clifford-reyes-5572b912a/) or follow me on [twitter](https://twitter.com/lorddashme).
 
-## Other Activities
-
-- I'm also working on and maintaining the following projects: [WordleJS](https://lorddashme.github.io/wordlejs/), [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
