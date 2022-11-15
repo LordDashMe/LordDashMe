@@ -58,5 +58,6 @@ The usually we do when we are learning a new programming language is to print ``
 
 - 🔭 I’m currently working on some cool stuff related to RF.
 - 🌱 I’m currently learning about some of the Web3's latest trends (ML, AI, blockchain, etc.).
+- ⚡ Check out my version of Wordle and play it with this link: <https://lorddashme.github.io/wordlejs/>
 - 📫 To reach me, you can send your query via [linkedin](https://www.linkedin.com/in/joshua-clifford-reyes-5572b912a/) or follow me on [twitter](https://twitter.com/lorddashme).
 
