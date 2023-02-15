@@ -60,5 +60,5 @@ The usually we do when we are learning a new programming language is to print ``
 
 - 🔭 I’m currently working on some cool stuff related to RF.
 - ⚡ Check out my version of Wordle and play it with this [link](https://lorddashme.github.io/wordlejs/).
-- 📫 To reach me, you can check my [website](https://lorddashme.github.io/) for the socmed links.
+- 📫 To reach me, you can visit my [website](https://lorddashme.github.io/).
 
