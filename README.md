@@ -45,7 +45,9 @@ The usually we do when we are learning a new programming language is to print ``
 - I'm also working on and maintaining the following projects: [WordleJS](https://lorddashme.github.io/wordlejs/), [Axie Stats Dashboard](https://lorddashme.github.io/axie-stats-dashboard/?id=ronin:70b2821390ffb6d9e3a07a7c8c29ff16f1384021) 
 -->
 
-<p align="center">"Success is not final; failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill</p>
+<!-- <p align="center">"Success is not final; failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill</p> -->
+
+<p align="center">"There are 10 types of people in this world: those who understand binary and those who don't."</p>
 
 <!-- <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p> -->
 <p align="center"><img width="90" height="90" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mona loading default" /></p>
