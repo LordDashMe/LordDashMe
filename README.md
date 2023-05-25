@@ -23,6 +23,7 @@ The usually we do when we are learning a new programming language is to print ``
 ## Hi, Dash here! :wave:
 
 - 🔭 I’m currently working on some Special Projects, you can check this [project list](http://lorddashme.github.io/projects/).
+- 🔭 I’m currently working on some cool stuff related to RF.
 - 🌱 I’m currently learning **Data Science**, **Machine Learning**, etc.
 - 🌱 I’m currently learning about some of the Web3's latest trends (blockchain, ML, AI, etc.).
 - 🌱 I’m currently learning about some of the Web3's latest trends (ML, AI, blockchain, etc.).
@@ -47,8 +48,8 @@ The usually we do when we are learning a new programming language is to print ``
 
 <!-- <p align="center">"Success is not final; failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill</p> -->
 <!-- <p align="center">"There are 10 types of people in this world: those who understand binary and those who don't."</p> -->
-<!-- <p align="center">"Be the top one or be the only one."</p> -->
-<p align="center">"Success is not final; failure is not fatal: It is the courage to continue that counts."</p>
+<p align="center">"Be the top one or be the only one."</p>
+<!-- <p align="center">"Success is not final; failure is not fatal: It is the courage to continue that counts."</p> -->
 
 <!-- <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p> -->
 <p align="center"><img width="90" height="90" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mona loading default" /></p>
@@ -61,7 +62,6 @@ The usually we do when we are learning a new programming language is to print ``
 
 ## Hi, Dash here :wave:
 
-- 🔭 I’m currently working on some cool stuff related to RF.
 - ⚡ Check out my version of Wordle and play it with this [link](https://lorddashme.github.io/wordlejs/).
 - 📫 To reach me, you can visit my [website](https://lorddashme.github.io/).
 
